@@ -1,2 +1,2 @@
 # LabActivity1_Jimaol-Ariane
-Laboratory Activity
+Laravel Project
